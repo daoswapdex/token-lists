@@ -1,0 +1,33 @@
+{
+  "name": "Daoswap",
+  "logoURI": "https://test.app.heco.daoswap.cc/daoswap.svg",
+  "keywords": ["defi", "doi"],
+  "timestamp": "2021-04-15T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 97,
+      "address": "0xdb5D970F03bfD19c1E51D57BcEd114BC35A0808f",
+      "name": "Daoswap",
+      "symbol": "DAO",
+      "decimals": 18,
+      "logoURI": "https://test.app.heco.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x69de6C190755e1398C268ECC440de59B10653166",
+      "name": "Daoswap DAT",
+      "symbol": "DAT",
+      "decimals": 18,
+      "logoURI": "https://test.app.heco.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0xd04808F83419776Cc85b7a1cf516a6dEeaA66F0D",
+      "name": "DST : DAO staking Credential",
+      "symbol": "DST",
+      "decimals": 18,
+      "logoURI": "https://test.app.heco.daoswap.cc/daoswap.svg"
+    }
+  ],
+  "version": { "major": 0, "minor": 0, "patch": 0 }
+}
