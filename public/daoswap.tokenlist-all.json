@@ -2,7 +2,7 @@
   "name": "Daoswap",
   "logoURI": "https://app.daoswap.cc/daoswap.svg",
   "keywords": ["defi", "doi"],
-  "timestamp": "2022-03-02T01:40:34.305Z",
+  "timestamp": "2022-03-03T14:40:34.305Z",
   "tokens": [
     {
       "chainId": 56,
@@ -41,6 +41,14 @@
       "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
       "name": "Binance-Peg Dai Token",
       "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "name": "Binance-Peg BTCB Token",
+      "symbol": "BTCB",
       "decimals": 18,
       "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
     },
@@ -333,5 +341,5 @@
       "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
     }
   ],
-  "version": { "major": 0, "minor": 0, "patch": 2 }
+  "version": { "major": 0, "minor": 0, "patch": 3 }
 }
