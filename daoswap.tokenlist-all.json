@@ -2,7 +2,7 @@
   "name": "Daoswap",
   "logoURI": "https://app.daoswap.cc/daoswap.svg",
   "keywords": ["defi", "doi"],
-  "timestamp": "2022-03-03T14:40:34.305Z",
+  "timestamp": "2022-03-08T10:40:34.305Z",
   "tokens": [
     {
       "chainId": 56,
@@ -10,7 +10,7 @@
       "name": "Daoswap",
       "symbol": "DAO",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 56,
@@ -18,7 +18,7 @@
       "name": "Binance-Peg Ethereum Token",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 56,
@@ -26,7 +26,7 @@
       "name": "Binance-Peg USD Coin",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 56,
@@ -34,7 +34,7 @@
       "name": "Binance-Peg BSC-USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 56,
@@ -42,7 +42,7 @@
       "name": "Binance-Peg Dai Token",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 56,
@@ -50,7 +50,79 @@
       "name": "Binance-Peg BTCB Token",
       "symbol": "BTCB",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+      "name": "Binance-Peg Polkadot Token",
+      "symbol": "DOT",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "name": "PancakeSwap Token",
+      "symbol": "Cake",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "name": "Binance-Peg Cardano Token",
+      "symbol": "ADA",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "name": "Binance-Peg XRP Token",
+      "symbol": "XRP",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+      "name": "Binance-Peg ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+      "name": "Binance-Peg Litecoin Token",
+      "symbol": "LTC",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+      "name": "Binance-Peg Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+      "name": "Binance-Peg SHIBA INU Token",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+      "name": "Binance-Peg Dogecoin Token",
+      "symbol": "DOGE",
+      "decimals": 8,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 97,
@@ -170,7 +242,7 @@
       "name": "Daoswap",
       "symbol": "DAO",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -178,7 +250,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -186,7 +258,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -194,7 +266,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -202,7 +274,7 @@
       "name": "ALTAI IFBB COIN",
       "symbol": "AIC",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -210,7 +282,7 @@
       "name": "Heco-Peg HFIL Token",
       "symbol": "HFIL",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -218,7 +290,7 @@
       "name": "Heco-Peg HBTC Token",
       "symbol": "HBTC",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -226,7 +298,7 @@
       "name": "Heco-Peg ETH Token",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -234,7 +306,7 @@
       "name": "Heco-Peg SHIB Token",
       "symbol": "SHIB",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -242,7 +314,7 @@
       "name": "MDX Token",
       "symbol": "MDX",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -250,7 +322,7 @@
       "name": "Heco-Peg UNI Token",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -258,7 +330,7 @@
       "name": "Heco-Peg HLTC Token",
       "symbol": "HLTC",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -266,7 +338,7 @@
       "name": "Heco-Peg DOGE Token",
       "symbol": "DOGE",
       "decimals": 8,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -274,7 +346,7 @@
       "name": "Heco-Peg ZEC Token",
       "symbol": "ZEC",
       "decimals": 8,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -282,7 +354,7 @@
       "name": "Heco-Peg SKM Token",
       "symbol": "SKM",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -290,7 +362,7 @@
       "name": "Heco-Peg ZKS Token",
       "symbol": "ZKS",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -298,7 +370,7 @@
       "name": "Heco-Peg MANA Token",
       "symbol": "MANA",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -306,7 +378,7 @@
       "name": "Heco-Peg HBCH Token",
       "symbol": "HBCH",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -314,7 +386,7 @@
       "name": "Heco-Peg AXS Token",
       "symbol": "AXS",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -322,7 +394,7 @@
       "name": "Heco-Peg HDOT Token",
       "symbol": "HDOT",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -330,7 +402,7 @@
       "name": "Heco-Peg LINK Token",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
       "chainId": 128,
@@ -338,8 +410,8 @@
       "name": "FSS",
       "symbol": "FSS",
       "decimals": 18,
-      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     }
   ],
-  "version": { "major": 0, "minor": 0, "patch": 3 }
+  "version": { "major": 0, "minor": 0, "patch": 4 }
 }
