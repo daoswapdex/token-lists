@@ -3,15 +3,6 @@
   "logoURI": "https://bscscan.com/images/gen/binance_20.png",
   "keywords": ["defi", "dao", "innovation"],
   "timestamp": "2022-05-04T10:40:34.305Z",
-  "tokens": [
-    {
-      "chainId": 56,
-      "address": "0xA0f95AF0161A6AA321E98515d3d3A32e743B0C3d",
-      "name": "NLB",
-      "symbol": "NLB",
-      "decimals": 18,
-      "logoURI": "https://bscscan.com/images/gen/binance_20.png"
-    }
-  ],
-  "version": { "major": 0, "minor": 0, "patch": 1 }
+  "tokens": [],
+  "version": { "major": 0, "minor": 0, "patch": 2 }
 }
