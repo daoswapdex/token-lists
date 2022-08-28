@@ -2,7 +2,7 @@
   "name": "Daoswap",
   "logoURI": "https://app.daoswap.cc/daoswap.svg",
   "keywords": ["defi", "dao"],
-  "timestamp": "2022-06-26T10:40:34.305Z",
+  "timestamp": "2022-08-28T11:25:34.305Z",
   "tokens": [
     {
       "chainId": 56,
@@ -145,6 +145,30 @@
       "address": "0x26433c8127d9b4e9B71Eaa15111DF99Ea2EeB2f8",
       "name": "Decentraland",
       "symbol": "MANA",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "name": "Binance-Peg BUSD Token",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+      "name": "Binance-Peg Ethereum Classic",
+      "symbol": "ETC",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+      "name": "Binance-Peg Bitcoin Cash Token",
+      "symbol": "BCH",
       "decimals": 18,
       "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
@@ -325,5 +349,5 @@
       "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     }
   ],
-  "version": { "major": 0, "minor": 0, "patch": 7 }
+  "version": { "major": 0, "minor": 0, "patch": 8 }
 }
