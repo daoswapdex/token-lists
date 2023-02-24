@@ -173,6 +173,14 @@
       "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
     {
+      "chainId": 56,
+      "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
       "chainId": 128,
       "address": "0xc096332CAacF00319703558988aD03eC6586e704",
       "name": "HECO Daoswap",
