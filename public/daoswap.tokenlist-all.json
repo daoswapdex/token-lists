@@ -2,7 +2,7 @@
   "name": "Daoswap",
   "logoURI": "https://app.daoswap.cc/daoswap.svg",
   "keywords": ["defi", "dao"],
-  "timestamp": "2022-08-28T11:25:34.305Z",
+  "timestamp": "2023-02-24T11:25:34.305Z",
   "tokens": [
     {
       "chainId": 56,
@@ -169,6 +169,14 @@
       "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
       "name": "Binance-Peg Bitcoin Cash Token",
       "symbol": "BCH",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+      "name": "Matic Token",
+      "symbol": "MATIC",
       "decimals": 18,
       "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     },
@@ -349,5 +357,5 @@
       "logoURI": "https://tokenlists.daoswap.cc/daoswap.svg"
     }
   ],
-  "version": { "major": 0, "minor": 0, "patch": 8 }
+  "version": { "major": 0, "minor": 0, "patch": 9 }
 }
